@@ -24,15 +24,16 @@ O chatbot permite que o usuário saia a qualquer momento digitando '0'.
 
 Requisitos
 
-Python 3.x
+Python 3.11
 
 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este chatbot.
 
-Autor
+Autores
 
-Este chatbot foi desenvolvido por Arthur O Machado e faz parte do projeto Connect Health.
+Este chatbot foi desenvolvido por Arthur Machado, Arthur Gosi, Beatriz Miranda, Samuel Gomes, Samara Santod e faz parte do projeto do Módulo 01 do BootCamp 500hs em Análise de Dados - SENAC Rio/Resilia.
+
 
 Licença
 
